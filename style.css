@@ -1,3 +1,70 @@
-body {
+body{
     background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
-  }
+}
+
+.contenitore{
+    width: 900px;
+    margin: auto;
+}
+
+.titolo{
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+    font-size: xx-large;
+}
+
+#hr1{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+#legend{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    
+}
+
+section{
+    margin: 5px;
+}
+
+#trenta{
+    border-radius: 40%;
+    background-color: rgb(236, 148, 26);
+}
+
+#hr2{
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+}
+
+.row1{
+    background-color: rgb(211, 211, 211);
+    border: 2px solid black;
+}
+
+.subject{
+    width: 35%;
+    display: inline-block;
+}
+
+.mail{
+    width: 60%;
+    display: inline-block;
+    color: gray;
+}
+
+.row2{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    display: inline-block;
+    margin-top: 0;
+}
